@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
