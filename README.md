@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
