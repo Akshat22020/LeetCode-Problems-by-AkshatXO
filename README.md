@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0002-add-two-numbers) |
+| [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
