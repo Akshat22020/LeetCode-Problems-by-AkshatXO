@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
