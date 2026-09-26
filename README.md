@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
