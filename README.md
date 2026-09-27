@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -114,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
