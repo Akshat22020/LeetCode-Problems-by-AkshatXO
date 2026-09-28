@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -125,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
