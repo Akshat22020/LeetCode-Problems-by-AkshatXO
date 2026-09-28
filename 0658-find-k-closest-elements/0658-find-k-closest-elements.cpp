@@ -5,9 +5,9 @@ public:
         priority_queue<p>pq;
 
         for(int ele : arr){
-            int dis=abs(x-ele);
-            //distance , element 
-            pq.push({dis,ele});
+            // int dis=abs(x-ele);
+            // //distance , element 
+            pq.push({abs(x-ele),ele});
             if(pq.size()>k)pq.pop();
         }
         vector<int>ans;
