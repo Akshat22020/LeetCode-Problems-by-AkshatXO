@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0066-plus-one) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0973-k-closest-points-to-origin) |
 | [1952-three-divisors](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1952-three-divisors) |
 ## Recursion
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
