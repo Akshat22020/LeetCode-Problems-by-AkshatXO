@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
