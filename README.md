@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0086-partition-list) |
 | [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 ## Greedy
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0058-length-of-last-word) |
 ## Stack
@@ -192,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
