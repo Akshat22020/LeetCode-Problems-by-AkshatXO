@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0086-partition-list) |
 | [0658-find-k-closest-elements](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0658-find-k-closest-elements) |
 ## Greedy
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -216,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akshat22020/LeetCode-Problems-by-AkshatXO/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
